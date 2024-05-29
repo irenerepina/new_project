@@ -6,3 +6,8 @@ def capital_letters(user_input):
 def first_capital(user_input):
     """"Capitalizes first letters of each word in a line"""
     return user_input.title()
+
+
+def something():
+    pass
+    
