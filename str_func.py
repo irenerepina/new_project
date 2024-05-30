@@ -12,5 +12,5 @@ def something():
     pass
 
 
-def test():
+def test_test():
     pass
